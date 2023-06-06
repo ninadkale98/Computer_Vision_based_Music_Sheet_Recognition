@@ -1,3 +1,6 @@
+## Optical Music Sheet Recognition
+This GitHub repository provides code for processing the music sheet of the song "Twinkle Twinkle Little Star." The code converts the sheet music from PDF format to images, extracts individual bars from the sheet, and can play the notes. This code can be scaled up to work on any generic music sheet. 
+
 # Folder Structure
 The repository's folder structure is designed to be self-contained. The music_sheet directory includes the PDF file containing the music sheet for "Twinkle Twinkle Little Star." The images directory contains the converted music sheet in PNG format. The temp directory includes images of bars used for note detection. The function.py file contains all the necessary functions used in the main code.
 
